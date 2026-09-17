@@ -6,6 +6,7 @@ function App() {
       <p>Version 1</p>
       <p>Version 1</p>
       <p>Version 1</p>
+      <p>Version 2</p>
 
 
     </div>
