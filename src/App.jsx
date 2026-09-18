@@ -3,10 +3,7 @@ function App() {
     <div>
       <h1>My CI/CD Learning Project</h1>
       <p>Hello World 👋</p>
-      <p>Version 1</p>
-      <p>Version 1</p>
-      <p>Version 1</p>
-      <p>Version 2</p>
+      <p>Version 3</p>
 
 
     </div>
